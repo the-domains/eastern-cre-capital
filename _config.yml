@@ -1,20 +1,4 @@
-name: Eastern CRE Capital
-favicon: null
-layout_spectrum: 0.4101923245470971
 typography_spectrum: 0.6979640028439462
-title: 'Single & Multi Tenant Net Leased Investments'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,35 @@ color:
   lightness: 0.928325008135289
   saturation: 0.5580805062782019
   rhythmicContrast: 0.3467607570346445
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4101923245470971
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Michael R. O'Mara
+  email: momara@easterncrecapital.com
+  url: 'https://www.linkedin.com/in/nnn1031'
+name: Eastern CRE Capital
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/71ecae17-58d9-4593-b65e-ccf9866b7c6c.jpg
+title: Single & Multi Tenant Net Leased Investments
+content: []
+purpose:
+  - type: contact
+    url: 'tel:6172393616'
+    label: Call 6172393616
+  - type: contact
+    url: 'mailto:momara@atlanticretail.com'
+    label: Contact me
+description: Triple Net Lease Investments
+github: true
+url: 'http://www.easterncrecapital.com'
