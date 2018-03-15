@@ -49,7 +49,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -64,6 +63,6 @@ purpose:
   - type: contact
     url: 'mailto:nnn1031@gmail.com'
     label: Contact Me
-description: Triple Net Lease Investments
+description: Retail Triple Net Lease Investments
 github: true
 url: 'http://www.easterncrecapital.com'
