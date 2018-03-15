@@ -33,9 +33,9 @@ favicon: >-
 title: New England Single Tenant Investors
 content: []
 purpose:
-  - type: contact
-    url: 'tel:6177449115'
-    label: Call 6177449115
+  - type: phone
+    url: 'tel:6177749115'
+    label: Call 6177749115
   - type: contact
     url: 'mailto:nnn1031@gmail.com'
     label: Contact Me
