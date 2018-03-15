@@ -1,9 +1,16 @@
 ---
 inFeed: true
-description: SINGE TENANT NET LEASED RETAIL REAL ESTATE INVESTORS
-dateModified: '2018-03-15T21:27:03.423Z'
-datePublished: '2018-03-15T21:27:03.808Z'
-title: ''
+description: >-
+  In today’s current economic climate investors of Single Tenant Net Leased real
+  estate have shifted their investment philosophy to reflect adjusted
+  risk/return ratios with an emphasis on capital preservation. This investment
+  mindset has created the lowest historical cap rates ever seen in the current
+  real estate cycle. Thus, Single Tenant Net Leased real estate provides
+  protection against the short term market fluctuations while providing
+  consistent and predictable returns for the owner.
+dateModified: '2018-03-15T22:05:51.762Z'
+datePublished: '2018-03-15T22:05:52.374Z'
+title: RETAIL STNL INVESTORS
 author: []
 publisher: {}
 via: {}
@@ -13,13 +20,11 @@ datePublishedOriginal: '2018-03-15T21:25:52.166Z'
 _type: Blurb
 
 ---
-**SINGE TENANT NET LEASED RETAIL REAL ESTATE INVESTORS**
+# **RETAIL STNL INVESTORS**
 
-In today's current economic climate investors of net leased real estate have shifted their investment philosophy to reflect adjusted risk/return ratios with an emphasis on capital preservation. This investment mindset has created the lowest historical cap rates ever seen in the current real estate cycle. Thus, single tenant net leased real estate provides protection against the short term market fluctuations while providing consistent and predictable returns for the owner.
+In today's current economic climate investors of _**Single Tenant Net Leased**_ real estate have shifted their investment philosophy to reflect adjusted risk/return ratios with an emphasis on capital preservation. This investment mindset has created the lowest historical cap rates ever seen in the current real estate cycle. Thus,_**Single Tenant Net Leased **_real estate provides protection against the short term market fluctuations while providing consistent and predictable returns for the owner.
 
-Investors of single tenant net leased real estate should evaluate today's valuation risk compared with other investment vehicles and carefully consider exit strategies. Long term fee interests typically will help minimize additional exposure while achieving appropriate returns. Today's valuations are usually driven by leveraged cash on cash returns and residual value.
-
-Factors to consider when investing in Single Tenant Net Leased (STNL) real estate:
+Factors to consider when investing in _**Single Tenant Net Leased**_ (STNL) real estate:
 
 * Credit/Investment grade of tenant
 * Lease structure
