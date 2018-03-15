@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: INVESTORS
-dateModified: '2018-03-15T21:19:34.145Z'
-datePublished: '2018-03-15T21:19:34.537Z'
+dateModified: '2018-03-15T21:19:48.425Z'
+datePublished: '2018-03-15T21:19:48.593Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-03-15-investors.md
+datePublishedOriginal: '2018-03-15T21:19:48.593Z'
 starred: false
-datePublishedOriginal: '2018-03-15T21:14:10.466Z'
 _type: Blurb
 
 ---
